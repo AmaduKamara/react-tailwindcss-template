@@ -1,6 +1,6 @@
-# Job and Tasks Board App
+# React and TailwindCSS Template App
 
-> Job Listing and task board app with authentication basics for adding and managing job posting
+> This is a template for setting up starter project for react and tailwindcss
 
 ## Built With
 
